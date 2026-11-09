@@ -1,0 +1,15 @@
+C:\Users\РПО\source\repos\NASLEDOVANIE\NASLEDOVANIE\bin\Debug\net10.0\NASLEDOVANIE.exe
+C:\Users\РПО\source\repos\NASLEDOVANIE\NASLEDOVANIE\bin\Debug\net10.0\NASLEDOVANIE.deps.json
+C:\Users\РПО\source\repos\NASLEDOVANIE\NASLEDOVANIE\bin\Debug\net10.0\NASLEDOVANIE.runtimeconfig.json
+C:\Users\РПО\source\repos\NASLEDOVANIE\NASLEDOVANIE\bin\Debug\net10.0\NASLEDOVANIE.dll
+C:\Users\РПО\source\repos\NASLEDOVANIE\NASLEDOVANIE\bin\Debug\net10.0\NASLEDOVANIE.pdb
+C:\Users\РПО\source\repos\NASLEDOVANIE\NASLEDOVANIE\obj\Debug\net10.0\NASLEDOVANIE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РПО\source\repos\NASLEDOVANIE\NASLEDOVANIE\obj\Debug\net10.0\NASLEDOVANIE.AssemblyInfoInputs.cache
+C:\Users\РПО\source\repos\NASLEDOVANIE\NASLEDOVANIE\obj\Debug\net10.0\NASLEDOVANIE.AssemblyInfo.cs
+C:\Users\РПО\source\repos\NASLEDOVANIE\NASLEDOVANIE\obj\Debug\net10.0\NASLEDOVANIE.csproj.CoreCompileInputs.cache
+C:\Users\РПО\source\repos\NASLEDOVANIE\NASLEDOVANIE\obj\Debug\net10.0\NASLEDOVANIE.dll
+C:\Users\РПО\source\repos\NASLEDOVANIE\NASLEDOVANIE\obj\Debug\net10.0\refint\NASLEDOVANIE.dll
+C:\Users\РПО\source\repos\NASLEDOVANIE\NASLEDOVANIE\obj\Debug\net10.0\NASLEDOVANIE.pdb
+C:\Users\РПО\source\repos\NASLEDOVANIE\NASLEDOVANIE\obj\Debug\net10.0\NASLEDOVANIE.genruntimeconfig.cache
+C:\Users\РПО\source\repos\NASLEDOVANIE\NASLEDOVANIE\obj\Debug\net10.0\ref\NASLEDOVANIE.dll
+C:\Users\РПО\source\repos\NASLEDOVANIE\NASLEDOVANIE\obj\Debug\net10.0\NASLEDOV.251710A3.Up2Date
