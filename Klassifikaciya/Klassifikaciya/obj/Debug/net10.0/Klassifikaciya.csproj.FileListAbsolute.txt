@@ -1,0 +1,15 @@
+C:\Users\Black ACADO\source\repos\Klassifikaciya\Klassifikaciya\bin\Debug\net10.0\Klassifikaciya.exe
+C:\Users\Black ACADO\source\repos\Klassifikaciya\Klassifikaciya\bin\Debug\net10.0\Klassifikaciya.deps.json
+C:\Users\Black ACADO\source\repos\Klassifikaciya\Klassifikaciya\bin\Debug\net10.0\Klassifikaciya.runtimeconfig.json
+C:\Users\Black ACADO\source\repos\Klassifikaciya\Klassifikaciya\bin\Debug\net10.0\Klassifikaciya.dll
+C:\Users\Black ACADO\source\repos\Klassifikaciya\Klassifikaciya\bin\Debug\net10.0\Klassifikaciya.pdb
+C:\Users\Black ACADO\source\repos\Klassifikaciya\Klassifikaciya\obj\Debug\net10.0\Klassifikaciya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Black ACADO\source\repos\Klassifikaciya\Klassifikaciya\obj\Debug\net10.0\Klassifikaciya.AssemblyInfoInputs.cache
+C:\Users\Black ACADO\source\repos\Klassifikaciya\Klassifikaciya\obj\Debug\net10.0\Klassifikaciya.AssemblyInfo.cs
+C:\Users\Black ACADO\source\repos\Klassifikaciya\Klassifikaciya\obj\Debug\net10.0\Klassifikaciya.csproj.CoreCompileInputs.cache
+C:\Users\Black ACADO\source\repos\Klassifikaciya\Klassifikaciya\obj\Debug\net10.0\Klassifikaciya.dll
+C:\Users\Black ACADO\source\repos\Klassifikaciya\Klassifikaciya\obj\Debug\net10.0\refint\Klassifikaciya.dll
+C:\Users\Black ACADO\source\repos\Klassifikaciya\Klassifikaciya\obj\Debug\net10.0\Klassifikaciya.pdb
+C:\Users\Black ACADO\source\repos\Klassifikaciya\Klassifikaciya\obj\Debug\net10.0\Klassifikaciya.genruntimeconfig.cache
+C:\Users\Black ACADO\source\repos\Klassifikaciya\Klassifikaciya\obj\Debug\net10.0\ref\Klassifikaciya.dll
+C:\Users\Black ACADO\source\repos\Klassifikaciya\Klassifikaciya\obj\Debug\net10.0\Klassifi.50305B20.Up2Date
